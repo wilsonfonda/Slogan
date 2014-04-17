@@ -2,4 +2,4 @@
 <p></p>
 <p>Name : Wilson Fonda</p>
 <p>University : Institut Teknologi Bandung (ITB)</p>
-<p>Slogan Challenge 003</p>
+<p>email : wilsonfonda@gmail.com</p>
